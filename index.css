@@ -1,0 +1,23 @@
+h1 {
+	color:darkgreen;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	display: inline-block;
+	text-align: center;
+	height: 25 px;
+}
+
+h2 {
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	display: inline-block;
+	text-align: center;
+	height: 25 px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.uc {
+	text-transform: uppercase;
+}
+
