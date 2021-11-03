@@ -1,23 +1,13 @@
-h1 {
-	color:darkgreen;
-	font-family:Georgia, 'Times New Roman', Times, serif;
-	display: inline-block;
-	text-align: center;
-	height: 25 px;
-}
+h1 {color:darkgreen;}
 
-h2 {
-	font-family:Georgia, 'Times New Roman', Times, serif;
-	display: inline-block;
-	text-align: center;
-	height: 25 px;
-}
+h1,h2 {font-family:Georgia, 'Times New Roman', Times, serif; 
+	text-align: center;}
 
-a {
-	text-decoration: none;
-}
+img {float: left;}
+	
+p {line-height: 25px;}
 
-.uc {
-	text-transform: uppercase;
-}
+a:hover {text-decoration: underline;}
+
+.uc {text-transform: uppercase;}
 
